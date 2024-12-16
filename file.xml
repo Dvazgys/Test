@@ -1,21 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <products>
-    <product>
-        <category-id>112</category-id>
+   <product>
+        <category-id>111</category-id>
         <category-name>
-            <![CDATA[Moteriški drabužiai/Apatiniai, miego drabužiai/Kelnaitės moterims]]>
+            <![CDATA[Moteriški drabužiai/Apatiniai, miego drabužiai/Apatiniai šortukai moterims]]>
         </category-name>
         <title>
-            <![CDATA[Merino vilnos kelnaitės]]>
+            <![CDATA[Šukuotinės medvilnės šortukų pakuotė - 2 vnt.]]>
         </title>
         <long-description>
-            <![CDATA[<p><p><br data-mce-bogus="1"></p></p>
-            <p>Netaikyti sauso valymo.
-            Maksimali lyginimo temperatūra 110°C.
-            Mechaninis džiovinimas draudžiamas.
-            Skalbti iki 30°C temperatūroje.
-            Negalimas balinimas chloru</p>]]>
+            <![CDATA[<p>Maksimali lyginimo temperatūra 110°C.
+            Skalbti iki 40°C temperatūroje.
+            Negalimas balinimas chloru.
+            Sausas valymas.
+            Mechaninis džiovinimas draudžiamas</p>]]>
         </long-description>
-        <video-youtube/>
+        <video-youtube></video-youtube>
         <properties>
             <property>
                 <id>manufacturer</id>
@@ -32,57 +32,61 @@
             <property>
                 <id>Prekių sudėtis</id>
                 <values>
-                    <value>100% Vilna</value>
+                    <value>95% medvilnė</value>
+                    <value>5% elastanas</value>
                 </values>
             </property>
         </properties>
         <colours>
             <colour>
-                <colour-title>KREMINĖ</colour-title>
+                <colour-title>BALTA</colour-title>
                 <images>
                     <image>
-                        <url>https://www.utenostrikotazas.lt/images/67063aabc25bba0ec70704e0</url>
+                        <url>https://www.utenostrikotazas.lt/images/652d1935c3a2173fa5801381</url>
+                    </image>
+                    <image>
+                        <url>https://www.utenostrikotazas.lt/images/652d194cc3a2173fa5801382</url>
                     </image>
                 </images>
                 <modifications>
                     <modification>
                         <modification-title>
-                            <![CDATA[XXL]]>
+                            <![CDATA[S]]>
                         </modification-title>
-                        <weight>1.2</weight>
-                        <length>0.2</length>
-                        <height>0.1</height>
-                        <width>1.2</width>
+                        <weight>0</weight>
+                        <length>0</length>
+                        <height>0</height>
+                        <width>0</width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4770224154532]]>
+                                    <![CDATA[4770224287995]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[U8437A_48724/2.26*2.1.XXL_NATURALI_26*2]]>
+                                <![CDATA[748a-1-MP_1648r/2.0*10.1.s_BALTA_0*10]]>
                             </supplier-code>
-                            <manufacturer-code/>
+                            <manufacturer-code></manufacturer-code>
                         </attributes>
                     </modification>
                     <modification>
                         <modification-title>
-                            <![CDATA[XXXL]]>
+                            <![CDATA[S]]>
                         </modification-title>
-						<weight>1.2</weight>
-                        <length>0.2</length>
-                        <height>0.1</height>
-                        <width>1.2</width>
+                        <weight>0</weight>
+                        <length>0</length>
+                        <height>0</height>
+                        <width>0</width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4770224154549]]>
+                                    <![CDATA[4770224118381]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[U8437A_48724/2.26*2.1.XXXL_NATURALI_26*2]]>
+                                <![CDATA[748A-1-MP_16486REN/2.0*10.1.S_BALTA_0*10]]>
                             </supplier-code>
-                            <manufacturer-code/>
+                            <manufacturer-code></manufacturer-code>
                         </attributes>
                     </modification>
                 </modifications>
