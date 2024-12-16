@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
-	<product>
-        <category-id>169</category-id>
+    <product>
+        <category-id>112</category-id>
         <category-name>
-            <![CDATA[Moteriški drabužiai/Drabužiai/Suknelės, tunikos]]>
+            <![CDATA[Moteriški drabužiai/Apatiniai, miego drabužiai/Kelnaitės moterims]]>
         </category-name>
         <title>
-            <![CDATA[Suknelė su Tencel pluoštu ir merino vilna ABOUT]]>
+            <![CDATA[Merino vilnos kelnaitės]]>
         </title>
         <long-description>
-            <![CDATA[<p>Mechaninis džiovinimas draudžiamas.
-            Skalbti rankomis iki 40°C temperatūroje.
-            Negalimas balinimas chloru.
-            Džiovinti ištiesus.
-            Maksimali lyginimo temperatūra 110°C</p>
-            <p><p>Modelis yra 177 cm ūgio ir dėvi S dydį.</p></p>]]>
+            <![CDATA[<p><p><br data-mce-bogus="1"></p></p>
+            <p>Netaikyti sauso valymo.
+            Maksimali lyginimo temperatūra 110°C.
+            Mechaninis džiovinimas draudžiamas.
+            Skalbti iki 30°C temperatūroje.
+            Negalimas balinimas chloru</p>]]>
         </long-description>
         <video-youtube/>
         <properties>
@@ -33,56 +33,55 @@
             <property>
                 <id>Prekių sudėtis</id>
                 <values>
-                    <value>50% Lajocelis</value>
-                    <value>50% Vilna</value>
+                    <value>100% Vilna</value>
                 </values>
             </property>
         </properties>
         <colours>
             <colour>
-                <colour-title>GARSTYČIŲ</colour-title>
+                <colour-title>KREMINĖ</colour-title>
                 <images>
                     <image>
-                        <url>https://www.utenostrikotazas.lt/images/671786f4c25bba0ec7071502</url>
+                        <url>https://www.utenostrikotazas.lt/images/67063aabc25bba0ec70704e0</url>
                     </image>
                 </images>
                 <modifications>
                     <modification>
                         <modification-title>
-                            <![CDATA[M/L]]>
+                            <![CDATA[XXL]]>
                         </modification-title>
-                        <weight>1</weight>
-                        <length>1</length>
-                        <height>1</height>
-                        <width>1</width>
+                        <weight>1.2</weight>
+                        <length>0.2</length>
+                        <height>0.1</height>
+                        <width>1.2</width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4772240156514]]>
+                                    <![CDATA[4770224154532]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[UOGADRS_46615/2.8A33.1.M/L_RUDA_8A33]]>
+                                <![CDATA[U8437A_48724/2.26*2.1.XXL_NATURALI_26*2]]>
                             </supplier-code>
                             <manufacturer-code/>
                         </attributes>
                     </modification>
                     <modification>
                         <modification-title>
-                            <![CDATA[XL/XXL]]>
+                            <![CDATA[XXXL]]>
                         </modification-title>
-                        <weight>1</weight>
-                        <length>1</length>
-                        <height>1</height>
-                        <width>1</width>
+						<weight>1.2</weight>
+                        <length>0.2</length>
+                        <height>0.1</height>
+                        <width>1.2</width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4772240156521]]>
+                                    <![CDATA[4770224154549]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[UOGADRS_46615/2.8A33.1.XL/XXL_RUDA_8A33]]>
+                                <![CDATA[U8437A_48724/2.26*2.1.XXXL_NATURALI_26*2]]>
                             </supplier-code>
                             <manufacturer-code/>
                         </attributes>
