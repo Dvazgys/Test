@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
-	<product>
-        <category-id>169</category-id>
+       <product>
+        <category-id>112</category-id>
         <category-name>
-            <![CDATA[Moteriški drabužiai/Drabužiai/Suknelės, tunikos]]>
+            <![CDATA[Moteriški drabužiai/Apatiniai, miego drabužiai/Kelnaitės moterims]]>
         </category-name>
         <title>
-            <![CDATA[Suknelė su Tencel pluoštu ir merino vilna ABOUT]]>
+            <![CDATA[Kelnaitės su nėriniais]]>
         </title>
         <long-description>
-            <![CDATA[<p>Mechaninis džiovinimas draudžiamas.
-            Skalbti rankomis iki 40°C temperatūroje.
+            <![CDATA[<p><p>&nbsp;<br></p></p>
+            <p>Maksimali lyginimo temperatūra 110°C.
+            Skalbti iki 40°C temperatūroje.
             Negalimas balinimas chloru.
-            Džiovinti ištiesus.
-            Maksimali lyginimo temperatūra 110°C</p>
-            <p><p>Modelis yra 177 cm ūgio ir dėvi S dydį.</p></p>]]>
+            Sausas valymas.
+            Mechaninis džiovinimas draudžiamas</p>]]>
         </long-description>
-        <video-youtube/>
+        <video-youtube></video-youtube>
         <properties>
             <property>
                 <id>manufacturer</id>
@@ -33,58 +33,118 @@
             <property>
                 <id>Prekių sudėtis</id>
                 <values>
-                    <value>50% Lajocelis</value>
-                    <value>50% Vilna</value>
+                    <value>95% viskozė</value>
+                    <value>5% elastanas</value>
                 </values>
             </property>
         </properties>
         <colours>
             <colour>
-                <colour-title>GARSTYČIŲ</colour-title>
+                <colour-title>SMĖLIO</colour-title>
                 <images>
                     <image>
-                        <url>https://www.utenostrikotazas.lt/images/671786f4c25bba0ec7071502</url>
+                        <url>https://www.utenostrikotazas.lt/images/58f5a2aa2b8fb88b44fe10b5</url>
                     </image>
                 </images>
                 <modifications>
                     <modification>
                         <modification-title>
-                            <![CDATA[M/L]]>
+                            <![CDATA[M]]>
                         </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4772240156514]]>
+                                    <![CDATA[4770224196211]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[UOGADRS_46615/2.8A33.1.M/L_RUDA_8A33]]>
+                                <![CDATA[u7953a_16269/2.10A45.1.M_SMELIO_10A45]]>
                             </supplier-code>
-                            <manufacturer-code/>
+                            <manufacturer-code></manufacturer-code>
                         </attributes>
                     </modification>
                     <modification>
                         <modification-title>
-                            <![CDATA[XL/XXL]]>
+                            <![CDATA[L]]>
                         </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4772240156521]]>
+                                    <![CDATA[4770224212065]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[UOGADRS_46615/2.8A33.1.XL/XXL_RUDA_8A33]]>
+                                <![CDATA[u7953a_16269/2.10A45.1.L_SMELIO_10A45]]>
                             </supplier-code>
-                            <manufacturer-code/>
+                            <manufacturer-code></manufacturer-code>
+                        </attributes>
+                    </modification>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[XL]]>
+                        </modification-title>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4770224196228]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[u7953a_16269/2.10A45.1.XL_SMELIO_10A45]]>
+                            </supplier-code>
+                            <manufacturer-code></manufacturer-code>
+                        </attributes>
+                    </modification>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[S]]>
+                        </modification-title>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4770224196204]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[u7953a_16269/2.10A45.1.S_SMELIO_10A45]]>
+                            </supplier-code>
+                            <manufacturer-code></manufacturer-code>
+                        </attributes>
+                    </modification>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[XXL]]>
+                        </modification-title>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4770224136880]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[U7953A_16269/2.10A45.1.XXL_SMELIO_10A45]]>
+                            </supplier-code>
+                            <manufacturer-code></manufacturer-code>
                         </attributes>
                     </modification>
                 </modifications>
