@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+	<product>
+        <category-id>169</category-id>
+        <category-name>
+            <![CDATA[Moteriški drabužiai/Drabužiai/Suknelės, tunikos]]>
+        </category-name>
+        <title>
+            <![CDATA[Suknelė su Tencel pluoštu ir merino vilna ABOUT]]>
+        </title>
+        <long-description>
+            <![CDATA[<p>Mechaninis džiovinimas draudžiamas.
+            Skalbti rankomis iki 40°C temperatūroje.
+            Negalimas balinimas chloru.
+            Džiovinti ištiesus.
+            Maksimali lyginimo temperatūra 110°C</p>
+            <p><p>Modelis yra 177 cm ūgio ir dėvi S dydį.</p></p>]]>
+        </long-description>
+        <video-youtube/>
+        <properties>
+            <property>
+                <id>manufacturer</id>
+                <values>
+                    <value>Utenostrikotazas</value>
+                </values>
+            </property>
+            <property>
+                <id>country</id>
+                <values>
+                    <value>LT</value>
+                </values>
+            </property>
+            <property>
+                <id>Prekių sudėtis</id>
+                <values>
+                    <value>50% Lajocelis</value>
+                    <value>50% Vilna</value>
+                </values>
+            </property>
+        </properties>
+        <colours>
+            <colour>
+                <colour-title>GARSTYČIŲ</colour-title>
+                <images>
+                    <image>
+                        <url>https://www.utenostrikotazas.lt/images/671786f4c25bba0ec7071502</url>
+                    </image>
+                </images>
+                <modifications>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[M/L]]>
+                        </modification-title>
+                        <weight>0</weight>
+                        <length>0</length>
+                        <height>0</height>
+                        <width>0</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4772240156514]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[UOGADRS_46615/2.8A33.1.M/L_RUDA_8A33]]>
+                            </supplier-code>
+                            <manufacturer-code/>
+                        </attributes>
+                    </modification>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[XL/XXL]]>
+                        </modification-title>
+                        <weight>0</weight>
+                        <length>0</length>
+                        <height>0</height>
+                        <width>0</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4772240156521]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[UOGADRS_46615/2.8A33.1.XL/XXL_RUDA_8A33]]>
+                            </supplier-code>
+                            <manufacturer-code/>
+                        </attributes>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </product>
+</products>
