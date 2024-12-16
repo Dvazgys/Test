@@ -130,7 +130,7 @@
         </properties>
         <colours>
             <colour>
-                <colour-title>GARSTYČIŲ</color-title>
+                <colour-title>GARSTYČIŲ</colour-title>
                 <images>
                     <image>
                         <url>https://www.utenostrikotazas.lt/images/671786f4c25bba0ec7071502</url>
@@ -141,10 +141,6 @@
                         <modification-title>
                             <![CDATA[M/L]]>
                         </modification-title>
-                        <weight/>
-                        <length/>
-                        <height/>
-                        <width/>
                         <attributes>
                             <barcodes>
                                 <barcode>
@@ -161,10 +157,6 @@
                         <modification-title>
                             <![CDATA[XL/XXL]]>
                         </modification-title>
-                        <weight/>
-                        <length/>
-                        <height/>
-                        <width/>
                         <attributes>
                             <barcodes>
                                 <barcode>
