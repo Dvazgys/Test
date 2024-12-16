@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+   <product>
+        <category-id>111</category-id>
+        <category-name>
+            <![CDATA[Moteriški drabužiai/Apatiniai, miego drabužiai/Apatiniai šortukai moterims]]>
+        </category-name>
+        <title>
+            <![CDATA[Šukuotinės medvilnės šortukų pakuotė - 2 vnt.]]>
+        </title>
+        <long-description>
+            <![CDATA[<p>Maksimali lyginimo temperatūra 110°C.
+            Skalbti iki 40°C temperatūroje.
+            Negalimas balinimas chloru.
+            Sausas valymas.
+            Mechaninis džiovinimas draudžiamas</p>]]>
+        </long-description>
+        <video-youtube></video-youtube>
+        <properties>
+            <property>
+                <id>manufacturer</id>
+                <values>
+                    <value>Utenostrikotazas</value>
+                </values>
+            </property>
+            <property>
+                <id>country</id>
+                <values>
+                    <value>LT</value>
+                </values>
+            </property>
+            <property>
+                <id>Prekių sudėtis</id>
+                <values>
+                    <value>95% medvilnė</value>
+                    <value>5% elastanas</value>
+                </values>
+            </property>
+        </properties>
+        <colours>
+            <colour>
+                <colour-title>BALTA</colour-title>
+                <images>
+                    <image>
+                        <url>https://www.utenostrikotazas.lt/images/652d1935c3a2173fa5801381</url>
+                    </image>
+                    <image>
+                        <url>https://www.utenostrikotazas.lt/images/652d194cc3a2173fa5801382</url>
+                    </image>
+                </images>
+                <modifications>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[S]]>
+                        </modification-title>
+                        <weight>0</weight>
+                        <length>0</length>
+                        <height>0</height>
+                        <width>0</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4770224287995]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[748a-1-MP_1648r/2.0*10.1.s_BALTA_0*10]]>
+                            </supplier-code>
+                            <manufacturer-code></manufacturer-code>
+                        </attributes>
+                    </modification>
+                    <modification>
+                        <modification-title>
+                            <![CDATA[S]]>
+                        </modification-title>
+                        <weight>0</weight>
+                        <length>0</length>
+                        <height>0</height>
+                        <width>0</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[4770224118381]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[748A-1-MP_16486REN/2.0*10.1.S_BALTA_0*10]]>
+                            </supplier-code>
+                            <manufacturer-code></manufacturer-code>
+                        </attributes>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </product>
+</products>
