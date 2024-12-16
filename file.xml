@@ -8,9 +8,6 @@
         <title>
             <![CDATA[Merino vilnos kelnaitės]]>
         </title>
-		<title-ru/>
-        <title-lv/>
-        <title-ee/>
         <long-description>
             <![CDATA[<p><p><br data-mce-bogus="1"></p></p>
             <p>Netaikyti sauso valymo.
@@ -19,10 +16,7 @@
             Skalbti iki 30°C temperatūroje.
             Negalimas balinimas chloru</p>]]>
         </long-description>
-		<long-description-ru/>
-        <long-description-lv/>
-        <long-description-ee/>
-        <video-youtube/>
+        <video-youtube></video-youtube>
         <properties>
             <property>
                 <id>manufacturer</id>
@@ -56,10 +50,10 @@
                         <modification-title>
                             <![CDATA[XXL]]>
                         </modification-title>
-                        <weight/>
-                        <length/>
-                        <height/>
-                        <width/>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
@@ -76,10 +70,10 @@
                         <modification-title>
                             <![CDATA[XXXL]]>
                         </modification-title>
-						<weight/>
-                        <length/>
-                        <height/>
-                        <width/>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
