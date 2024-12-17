@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
-      <product>
+    <product>
         <category-id>115</category-id>
         <category-name>
             <![CDATA[Moteriški drabužiai/Apatiniai, miego drabužiai/Apatiniai marškinėliai moterims]]>
@@ -39,98 +39,35 @@
         </properties>
         <colours>
             <colour>
-                <colour-title>JUODA</colour-title>
+                <color-title>KREMINĖ</color-title>
                 <images>
                     <image>
-                        <url>https://www.utenostrikotazas.lt/images/672db6905c214b0aff098f30</url>
+                        <url>https://www.utenostrikotazas.lt/images/67063d7cc25bba0ec70705ab</url>
                     </image>
                     <image>
-                        <url>https://www.utenostrikotazas.lt/images/672db6945c214b0aff098f31</url>
+                        <url>https://www.utenostrikotazas.lt/images/67063d84c25bba0ec70705ac</url>
                     </image>
                     <image>
-                        <url>https://www.utenostrikotazas.lt/images/672db6995c214b0aff098f32</url>
-                    </image>
-                    <image>
-                        <url>https://www.utenostrikotazas.lt/images/672db69d5c214b0aff098f33</url>
+                        <url>https://www.utenostrikotazas.lt/images/67063d88c25bba0ec70705ad</url>
                     </image>
                 </images>
                 <modifications>
                     <modification>
                         <modification-title>
-                            <![CDATA[L]]>
-                        </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
-                        <attributes>
-                            <barcodes>
-                                <barcode>
-                                    <![CDATA[4770224152392]]>
-                                </barcode>
-                            </barcodes>
-                            <supplier-code>
-                                <![CDATA[U8436A_48724/2.16*36.1.L_JUODA_16*36]]>
-                            </supplier-code>
-                            <manufacturer-code></manufacturer-code>
-                        </attributes>
-                    </modification>
-                    <modification>
-                        <modification-title>
-                            <![CDATA[M]]>
-                        </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
-                        <attributes>
-                            <barcodes>
-                                <barcode>
-                                    <![CDATA[4770224152378]]>
-                                </barcode>
-                            </barcodes>
-                            <supplier-code>
-                                <![CDATA[U8436A_48724/2.16*36.1.M_JUODA_16*36]]>
-                            </supplier-code>
-                            <manufacturer-code></manufacturer-code>
-                        </attributes>
-                    </modification>
-                    <modification>
-                        <modification-title>
-                            <![CDATA[S]]>
-                        </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
-                        <attributes>
-                            <barcodes>
-                                <barcode>
-                                    <![CDATA[4770224152361]]>
-                                </barcode>
-                            </barcodes>
-                            <supplier-code>
-                                <![CDATA[U8436A_48724/2.16*36.1.S_JUODA_16*36]]>
-                            </supplier-code>
-                            <manufacturer-code></manufacturer-code>
-                        </attributes>
-                    </modification>
-                    <modification>
-                        <modification-title>
                             <![CDATA[XL]]>
                         </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4770224152408]]>
+                                    <![CDATA[4770224153610]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[U8436A_48724/2.16*36.1.XL_JUODA_16*36]]>
+                                <![CDATA[U8436A_48724/2.26*2.1.XL_NATURALI_26*2]]>
                             </supplier-code>
                             <manufacturer-code></manufacturer-code>
                         </attributes>
@@ -139,18 +76,18 @@
                         <modification-title>
                             <![CDATA[XXL]]>
                         </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4770224152521]]>
+                                    <![CDATA[4770224153641]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[U8436A_48724/2.16*36.1.XXL_JUODA_16*36]]>
+                                <![CDATA[U8436A_48724/2.26*2.1.XXL_NATURALI_26*2]]>
                             </supplier-code>
                             <manufacturer-code></manufacturer-code>
                         </attributes>
@@ -159,18 +96,18 @@
                         <modification-title>
                             <![CDATA[XXXL]]>
                         </modification-title>
-                        <weight>0</weight>
-                        <length>0</length>
-                        <height>0</height>
-                        <width>0</width>
+                        <weight></weight>
+                        <length></length>
+                        <height></height>
+                        <width></width>
                         <attributes>
                             <barcodes>
                                 <barcode>
-                                    <![CDATA[4770224152569]]>
+                                    <![CDATA[4770224153894]]>
                                 </barcode>
                             </barcodes>
                             <supplier-code>
-                                <![CDATA[U8436A_48724/2.16*36.1.XXXL_JUODA_16*36]]>
+                                <![CDATA[U8436A_48724/2.26*2.1.XXXL_NATURALI_26*2]]>
                             </supplier-code>
                             <manufacturer-code></manufacturer-code>
                         </attributes>
